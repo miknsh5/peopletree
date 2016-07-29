@@ -1,12 +1,18 @@
 // generated on 2016-07-29 using generator-webapp 2.1.0
-const gulp = require('gulp');
-const gulpLoadPlugins = require('gulp-load-plugins');
-const browserSync = require('browser-sync');
-const del = require('del');
-const wiredep = require('wiredep').stream;
+const gulp             = require('gulp');
+const deploy           = require('gulp-gh-pages');
+const gulpLoadPlugins  = require('gulp-load-plugins');
+const browserSync      = require('browser-sync');
+const del              = require('del');
+const wiredep          = require('wiredep').stream;
 
 const $ = gulpLoadPlugins();
 const reload = browserSync.reload;
+
+gulp.task('deploy', function () {
+  return gulp.src("./dist/**/*")
+    .pipe(deploy())
+});
 
 gulp.task('styles', () => {
   return gulp.src('app/styles/*.css')
@@ -82,7 +88,8 @@ gulp.task('fonts', () => {
 gulp.task('extras', () => {
   return gulp.src([
     'app/*.*',
-    '!app/*.html'
+    '!app/*.html',
+    'CNAME'
   ], {
     dot: true
   }).pipe(gulp.dest('dist'));
