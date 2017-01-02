@@ -17,3 +17,14 @@
   background-color: #1565C0 !important;
   border-color: #1565C0;
 }
+
+.beta-text {
+  font-size: 12pt;
+  /*position:relative;*/
+  /*left: -80px;*/
+  /*bottom: -20px;*/
+}
+
+.navbar-brand img {
+  max-width: 140px;
+}
