@@ -28,3 +28,21 @@
 .navbar-brand img {
   max-width: 140px;
 }
+
+.h3, .h4, .h5, h3, h4, h5{
+  font-weight: 400 !important;
+}
+
+.pull-quote > img {
+  width: auto;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  .pull-quote > img {
+    width: auto;
+    height: 150px;
+  }
+}
+
+
