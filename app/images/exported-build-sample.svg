@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="725px" height="433px" viewBox="0 0 725 433" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>exported-build-sample</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21.5" cy="21.5" r="21.5"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-15" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-19" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="app-build" transform="translate(-465.000000, -247.000000)">
+            <g id="Group" opacity="0.5" transform="translate(823.000000, 329.000000)" stroke="#979797">
+                <path d="M0,101 C60.6133755,101 47.2244448,49 97,49" id="Path-31-Copy"></path>
+                <path d="M0,101 C60.6133755,101 47.2244448,-6.34711846e-15 97,0" id="Path-31-Copy-4"></path>
+                <path d="M0,100.602564 C60.6133755,100.602564 47.2244448,100 97,100" id="Path-31-Copy-3"></path>
+                <path d="M0,152 C60.6133755,152 47.2244448,100 97,100" id="Path-31-Copy-2" transform="translate(48.500000, 126.000000) scale(1, -1) translate(-48.500000, -126.000000) "></path>
+            </g>
+            <g id="Group-4" transform="translate(73.000000, 32.000000)">
+                <g id="Group" transform="translate(563.000000, 245.000000)">
+                    <g id="Group-2" transform="translate(135.000000, 124.000000)" fill="#D8D8D8" stroke="#FFFFFF">
+                        <g id="directional-arrows">
+                            <polygon id="Triangle-1-Copy-2" points="54 34 54 22 58 28"></polygon>
+                            <polygon id="Triangle-1-Copy-3" transform="translate(2.000000, 28.000000) rotate(-180.000000) translate(-2.000000, -28.000000) " points="-8.8817842e-16 34 -8.8817842e-16 22 4 28"></polygon>
+                            <polygon id="Triangle-1-Copy" points="23 54 35 54 29 58"></polygon>
+                            <polygon id="Triangle-1-Copy" transform="translate(29.000000, 2.000000) rotate(-180.000000) translate(-29.000000, -2.000000) " points="23 0 35 0 29 4"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(142.000000, 130.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#0097FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <text id="JR" font-family="Roboto-Bold, Roboto" font-size="17.3064599" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="10.0566295" y="28">TP</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="node-new-hint" transform="translate(150.000000, 338.000000)">
+                        <g stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 0.000000)" id="node-new">
+                            <g>
+                                <g id="Group">
+                                    <path d="M13,26 C20.1797017,26 26,20.1797017 26,13 C26,5.82029825 20.1797017,0 13,0 C5.82029825,0 0,5.82029825 0,13 C0,20.1797017 5.82029825,26 13,26 Z" id="Oval-1"></path>
+                                    <path d="M13,24.7906977 C19.5118225,24.7906977 24.7906977,19.5118225 24.7906977,13 C24.7906977,6.48817748 19.5118225,1.20930233 13,1.20930233 C6.48817748,1.20930233 1.20930233,6.48817748 1.20930233,13 C1.20930233,19.5118225 6.48817748,24.7906977 13,24.7906977 Z" id="Oval-1" stroke="#CFD8DC" stroke-dasharray="3" fill="#FAFAFA"></path>
+                                </g>
+                                <polygon id="+" fill="#CFD8DC" points="13.3840399 12.6582857 13.3840399 10.2936678 12.6498206 10.2936678 12.6498206 12.6582857 10.296 12.6582857 10.296 13.392505 12.6498206 13.392505 12.6498206 15.7571229 13.3840399 15.7571229 13.3840399 13.392505 15.7378605 13.392505 15.7378605 12.6582857"></polygon>
+                            </g>
+                        </g>
+                        <text id="Peer-Copy" font-family="Roboto-Regular, Roboto" font-size="8" font-weight="normal" fill="#CFD8DC">
+                            <tspan x="5.88476562" y="35">Peer</tspan>
+                        </text>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 91.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Michael</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">QA Manager</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 70.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.76200086" y="17.2499549">LH</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 0.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="7.08645768" y="17.2499549">RF</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 280.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.57805683" y="17.2499549">BP</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-2" stroke="#FFFFFF" fill="#929292" transform="translate(240.000000, 292.000000) rotate(-90.000000) translate(-240.000000, -292.000000) " points="234 290 246 290 240 294"></polygon>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 210.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="5.01453263" y="17.2499549">MN</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 140.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Taylor</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Architect</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 189.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">David</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Sr. iOS Developer</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-4" stroke="#FFFFFF" fill="#929292" transform="translate(380.000000, 51.000000) rotate(-90.000000) translate(-380.000000, -51.000000) " points="374 49 386 49 380 53"></polygon>
+                    <polygon id="Triangle-1-Copy-5" stroke="#FFFFFF" fill="#929292" transform="translate(380.000000, 100.000000) rotate(-90.000000) translate(-380.000000, -100.000000) " points="374 98 386 98 380 102"></polygon>
+                    <g id="parent-node" transform="translate(12.000000, 138.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.82842509" y="17.2499549">AE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-3" stroke="#FFFFFF" fill="#929292" transform="translate(2.000000, 152.000000) rotate(-270.000000) translate(-2.000000, -152.000000) " points="-4 150 8 150 2 154"></polygon>
+                    <g id="child-node" transform="translate(281.000000, 89.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="5.78607562" y="17.2499549">MJ</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 39.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.5116326" y="17.2499549">SG</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 139.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="7.1886488" y="17.2499549">TF</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 189.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.49119438" y="17.2499549">DD</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 4.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Roger</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Director Engineering</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 74.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Lisa</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Human Resources</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 214.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Matt</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Creative Director</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 284.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Ben</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Program Manager</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" transform="translate(47.000000, 141.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Albert</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Managing Director</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 41.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Simon</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Dev Manager</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

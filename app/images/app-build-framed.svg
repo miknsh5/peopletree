@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1735px" height="1017px" viewBox="0 0 1735 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>app-build-framed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1363.88992" height="928.921698" rx="23"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1363.88992" height="928.921698" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#151515" offset="0%"></stop>
+            <stop stop-color="#2C2C2C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#96979B" offset="0%"></stop>
+            <stop stop-color="#2A2B2D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.0539323492,31.3187437 C0.0539323492,31.3187437 17.4791609,48.7211039 66.8264387,53.3168918 L1602.62576,53.3168918 C1602.62576,53.3168918 1643.56815,50.2382179 1670.12537,32.0773005 L38.7500468,32.0773005 L0.0539323492,31.3187437 Z" id="path-5"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#808185" offset="0%"></stop>
+            <stop stop-color="#CFD0D2" offset="0.797475782%"></stop>
+            <stop stop-color="#949599" offset="2.10447825%"></stop>
+            <stop stop-color="#A7A8AC" offset="3.73190757%"></stop>
+            <stop stop-color="#B6B7BB" offset="4.23426959%"></stop>
+            <stop stop-color="#CFD0D4" offset="0.212489602%"></stop>
+            <stop stop-color="#D8D8D8" offset="9.64049628%"></stop>
+            <stop stop-color="#DDDEE0" offset="90.9095999%"></stop>
+            <stop stop-color="#B1B2B4" offset="95.6196111%"></stop>
+            <stop stop-color="#C2C3C7" offset="98.2552801%"></stop>
+            <stop stop-color="#F1F3F2" offset="99.12764%"></stop>
+            <stop stop-color="#E9EBEA" offset="99.3572084%"></stop>
+            <stop stop-color="#D4D5D7" offset="99.730501%"></stop>
+            <stop stop-color="#7A7B7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="37.2336119%" x2="0%" y2="37.2336116%" id="linearGradient-8">
+            <stop stop-color="#949599" offset="0%"></stop>
+            <stop stop-color="#9E9FA3" offset="3.58222603%"></stop>
+            <stop stop-color="#B9BABC" offset="5.16614898%"></stop>
+            <stop stop-color="#E0E1E3" offset="8.56026958%"></stop>
+            <stop stop-color="#D8D9DB" offset="91.8293618%"></stop>
+            <stop stop-color="#C2C3C5" offset="94.5446582%"></stop>
+            <stop stop-color="#8D8E90" offset="100%"></stop>
+        </linearGradient>
+        <path d="M717.262075,1.06503709 C717.262075,1.06503709 717.451387,14.3813902 730.784032,20.7426428 L938.11852,20.7426428 C938.11852,20.7426428 949.524493,16.6030558 952.063045,1.06503707 L720.622921,1.06503707" id="path-9"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.301441866 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-15" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-19" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-21" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-23" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-25" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-27" cx="13" cy="13" r="13"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-29" cx="21.5" cy="21.5" r="21.5"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="0" y="0" width="1283" height="47"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-33" cx="24" cy="22" r="20"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1.20792265e-13,2 L15.9226002,2 L15.9226002,12.8918285 L15.9226002,23.4131519 L1.20792265e-13,23.4131519 L1.20792265e-13,2 Z" id="path-35"></path>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15.9226002" height="21.4131519" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <circle id="path-37" cx="24" cy="22" r="20"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="0" y="0" width="570" height="58"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-41">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-42" cx="209.634146" cy="192.5" rx="174.695122" ry="175"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-43">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-44" cx="21.6204536" cy="115.719955" rx="20.7970383" ry="20.8333333"></ellipse>
+        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-20" y="-20" width="81.5940767" height="81.6666667">
+            <rect x="-19.1765848" y="74.8866213" width="81.5940767" height="81.6666667" fill="white"></rect>
+            <use xlink:href="#path-44" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="app-build-framed">
+            <g id="macbook-pro-retina" transform="translate(32.000000, 31.000000)">
+                <g id="monitor" transform="translate(152.783292, 0.000000)">
+                    <rect id="screen" fill="#FFFFFF" x="43.6996769" y="59.7820895" width="1278.79054" height="800.160275"></rect>
+                    <use stroke="#C6C6C6" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+                <g id="camera" transform="translate(826.678309, 27.591734)">
+                    <ellipse id="Oval-5" fill="url(#linearGradient-3)" cx="9.19993197" cy="9.19724454" rx="9.19993197" ry="9.19724454"></ellipse>
+                    <ellipse id="Oval-6" fill="#103470" cx="9.19993197" cy="9.19724454" rx="4.59996599" ry="4.59862227"></ellipse>
+                </g>
+                <g id="bottom" transform="translate(0.000000, 912.826520)">
+                    <g id="lower-bottom">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <rect id="upper-bottom" fill="url(#linearGradient-7)" x="0.984414436" y="0" width="1669.78765" height="32.1903559"></rect>
+                    <g id="indent">
+                        <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(227.000000, 94.000000)">
+                <path d="M0,350 L1280,350" id="Path-1-Copy" stroke="#979797" opacity="0.200000003"></path>
+                <g id="Group-4" transform="translate(416.000000, 198.000000)">
+                    <g id="node-new-hint" transform="translate(150.000000, 338.000000)">
+                        <g stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 0.000000)" id="node-new">
+                            <g>
+                                <g id="Group">
+                                    <path d="M13,26 C20.1797017,26 26,20.1797017 26,13 C26,5.82029825 20.1797017,0 13,0 C5.82029825,0 0,5.82029825 0,13 C0,20.1797017 5.82029825,26 13,26 Z" id="Oval-1"></path>
+                                    <path d="M13,24.7906977 C19.5118225,24.7906977 24.7906977,19.5118225 24.7906977,13 C24.7906977,6.48817748 19.5118225,1.20930233 13,1.20930233 C6.48817748,1.20930233 1.20930233,6.48817748 1.20930233,13 C1.20930233,19.5118225 6.48817748,24.7906977 13,24.7906977 Z" id="Oval-1" stroke="#CFD8DC" stroke-dasharray="3" fill="#FAFAFA"></path>
+                                </g>
+                                <polygon id="+" fill="#CFD8DC" points="13.3840399 12.6582857 13.3840399 10.2936678 12.6498206 10.2936678 12.6498206 12.6582857 10.296 12.6582857 10.296 13.392505 12.6498206 13.392505 12.6498206 15.7571229 13.3840399 15.7571229 13.3840399 13.392505 15.7378605 13.392505 15.7378605 12.6582857"></polygon>
+                            </g>
+                        </g>
+                        <text id="Peer-Copy" font-family="Roboto-Regular, Roboto" font-size="8" font-weight="normal" fill="#CFD8DC">
+                            <tspan x="5.88476562" y="35">Peer</tspan>
+                        </text>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 91.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Michael</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">QA Manager</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 70.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.76200086" y="17.2499549">LH</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 0.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="7.08645768" y="17.2499549">RF</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 280.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.57805683" y="17.2499549">BP</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-2" stroke="#FFFFFF" fill="#929292" transform="translate(240.000000, 292.000000) rotate(-90.000000) translate(-240.000000, -292.000000) " points="234 290 246 290 240 294"></polygon>
+                    <g id="child-node" opacity="0.6" transform="translate(151.000000, 210.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="5.01453263" y="17.2499549">MN</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 140.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Taylor</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Architect</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 189.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">David</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Sr. iOS Developer</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-4" stroke="#FFFFFF" fill="#929292" transform="translate(380.000000, 51.000000) rotate(-90.000000) translate(-380.000000, -51.000000) " points="374 49 386 49 380 53"></polygon>
+                    <polygon id="Triangle-1-Copy-5" stroke="#FFFFFF" fill="#929292" transform="translate(380.000000, 100.000000) rotate(-90.000000) translate(-380.000000, -100.000000) " points="374 98 386 98 380 102"></polygon>
+                    <g id="parent-node" transform="translate(12.000000, 138.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.82842509" y="17.2499549">AE</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon id="Triangle-1-Copy-3" stroke="#FFFFFF" fill="#929292" transform="translate(2.000000, 152.000000) rotate(-270.000000) translate(-2.000000, -152.000000) " points="-4 150 8 150 2 154"></polygon>
+                    <g id="child-node" transform="translate(281.000000, 89.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="5.78607562" y="17.2499549">MJ</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 39.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-23"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.5116326" y="17.2499549">SG</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 139.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-25"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="7.1886488" y="17.2499549">TF</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node" transform="translate(281.000000, 189.000000)">
+                        <g id="node-selected">
+                            <g id="Oval-1-+-BP">
+                                <g id="Oval-1">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                    <use fill="#CFD8DC" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                </g>
+                                <text id="AE" font-family="Roboto-Bold, Roboto" font-size="10.4643711" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="6.49119438" y="17.2499549">DD</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 4.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Roger</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Director Engineering</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 74.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Lisa</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Human Resources</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 214.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Matt</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Creative Director</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" opacity="0.6" transform="translate(187.000000, 284.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Ben</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Program Manager</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="peer-node-label" transform="translate(47.000000, 141.000000)" font-family="Roboto-Regular, Roboto" fill="#979797" font-weight="normal">
+                        <g id="child-node-label-copy-3">
+                            <g id="Group-5">
+                                <text id="Name" font-size="12">
+                                    <tspan x="0" y="11">Albert</tspan>
+                                </text>
+                                <text id="Director-Engineering" font-size="5">
+                                    <tspan x="1" y="18">Managing Director</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="child-node-label" transform="translate(319.000000, 41.000000)" font-weight="normal" font-family="Roboto-Regular, Roboto" fill="#979797">
+                        <g id="Group-5" transform="translate(2.000000, 0.000000)">
+                            <text id="Michael" font-size="15">
+                                <tspan x="0" y="14">Simon</tspan>
+                            </text>
+                            <text id="iOS-Developer" font-size="8">
+                                <tspan x="0" y="23">Dev Manager</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="node-selected" transform="translate(142.000000, 130.000000)">
+                        <g id="Oval-1-+-BP">
+                            <g id="Oval-1">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                <use fill="#0097FF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <text id="JR" font-family="Roboto-Bold, Roboto" font-size="17.3064599" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="10.0566295" y="28">TP</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="directional-arrows" transform="translate(135.000000, 124.000000)" stroke="#FFFFFF" fill="#D8D8D8">
+                        <polygon id="Triangle-1-Copy-2" points="54 34 54 22 58 28"></polygon>
+                        <polygon id="Triangle-1-Copy-3" transform="translate(2.000000, 28.000000) rotate(-180.000000) translate(-2.000000, -28.000000) " points="-8.8817842e-16 34 -8.8817842e-16 22 4 28"></polygon>
+                        <polygon id="Triangle-1-Copy" points="23 54 35 54 29 58"></polygon>
+                        <polygon id="Triangle-1-Copy" transform="translate(29.000000, 2.000000) rotate(-180.000000) translate(-29.000000, -2.000000) " points="23 0 35 0 29 4"></polygon>
+                    </g>
+                </g>
+                <g id="Group-10" transform="translate(1050.000000, 46.000000)">
+                    <rect id="Rectangle-44" fill="#455A64" x="0" y="0" width="230" height="752"></rect>
+                    <g id="Rectangle-43-Copy-2-+-Shape">
+                        <rect id="Rectangle-43-Copy-2" fill="#607D8B" x="0" y="0" width="28" height="28"></rect>
+                        <polygon id="Shape" fill="#FAFAFA" points="18.875 11 18 10.125 14.5 13.625 11 10.125 10.125 11 13.625 14.5 10.125 18 11 18.875 14.5 15.375 18 18.875 18.875 18 15.375 14.5"></polygon>
+                    </g>
+                    <g id="Rectangle-43-Copy-3-+-Shape" transform="translate(201.000000, 30.000000)">
+                        <rect id="Rectangle-43-Copy-3" fill="#607D8B" x="0" y="0" width="28" height="28"></rect>
+                        <path d="M10.4821429,15.8214286 L10.4821429,17.5178571 L12.1785714,17.5178571 L17.0892857,12.5625 L15.3928571,10.8660714 L10.4821429,15.8214286 L10.4821429,15.8214286 Z M18.3839286,11.2678571 C18.5625,11.0892857 18.5625,10.8214286 18.3839286,10.6428571 L17.3571429,9.61607143 C17.1785714,9.4375 16.9107143,9.4375 16.7321429,9.61607143 L15.9285714,10.4196429 L17.625,12.1160714 L18.3839286,11.2678571 L18.3839286,11.2678571 Z" id="Shape" fill="#FAFAFA"></path>
+                    </g>
+                    <text id="Dev-Manager" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#B6B6B6">
+                        <tspan x="44" y="104">Dev Manager</tspan>
+                    </text>
+                    <g id="Group-6" transform="translate(44.000000, 112.000000)">
+                        <rect id="Rectangle-67" fill="#0097FF" x="0" y="0" width="63" height="15"></rect>
+                        <text id="ENGINEERING" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="7" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="7" y="10">ENGINEERING</tspan>
+                        </text>
+                    </g>
+                    <text id="Resource" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#607D8B">
+                        <tspan x="13" y="49">Resource</tspan>
+                    </text>
+                    <text id="Direct-Reports" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#B6B6B6">
+                        <tspan x="44" y="217">Direct Reports</tspan>
+                    </text>
+                    <text id="Total-Reports" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#B6B6B6">
+                        <tspan x="44" y="237">Total Reports</tspan>
+                    </text>
+                    <text id="Tiger-Penguin" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="17" font-weight="bold" fill="#CFD8DC">
+                        <tspan x="44" y="87">Tiger Penguin</tspan>
+                    </text>
+                    <path d="M0.6640625,269.941406 L230.777055,269.941406" id="Path-68" stroke="#607D8B"></path>
+                    <text id="Stats" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#607D8B">
+                        <tspan x="13" y="159">Stats</tspan>
+                    </text>
+                    <path d="M0.6640625,169.941406 L230.777055,169.941406" id="Path-68-Copy-2" stroke="#607D8B"></path>
+                    <path d="M0.6640625,29.9414062 L230.664062,29.9414062" id="Path-68-Copy" stroke="#607D8B"></path>
+                    <text id="4" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#B6B6B6">
+                        <tspan x="200" y="218">4</tspan>
+                    </text>
+                    <text id="30" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" fill="#B6B6B6">
+                        <tspan x="200" y="238">30</tspan>
+                    </text>
+                    <g id="post-linkedin" opacity="0.2" transform="translate(21.000000, 74.000000)" fill="#CFD8DC">
+                        <path d="M13.5,0 L1.5,0 C0.675,0 0,0.675 0,1.5 L0,13.5 C0,14.325 0.675,15 1.5,15 L13.5,15 C14.325,15 15,14.325 15,13.5 L15,1.5 C15,0.675 14.325,0 13.5,0 L13.5,0 Z M4.5,12.75 L2.25,12.75 L2.25,6 L4.5,6 L4.5,12.75 L4.5,12.75 Z M3.375,4.725 C2.625,4.725 2.025,4.125 2.025,3.375 C2.025,2.625 2.625,2.025 3.375,2.025 C4.125,2.025 4.725,2.625 4.725,3.375 C4.725,4.125 4.125,4.725 3.375,4.725 L3.375,4.725 Z M12.75,12.75 L10.5,12.75 L10.5,8.775 C10.5,8.175 9.975,7.65 9.375,7.65 C8.775,7.65 8.25,8.175 8.25,8.775 L8.25,12.75 L6,12.75 L6,6 L8.25,6 L8.25,6.9 C8.625,6.3 9.45,5.85 10.125,5.85 C11.55,5.85 12.75,7.05 12.75,8.475 L12.75,12.75 L12.75,12.75 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <g id="header">
+                    <g id="Rectangle-17">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                    </g>
+                    <g id="Group-7" stroke-width="1" fill-rule="evenodd" transform="translate(920.000000, 0.000000)">
+                        <g id="Account-Menu-btn">
+                            <g id="Group-11" transform="translate(133.000000, 0.000000)">
+                                <rect id="Rectangle-82" x="0" y="0" width="230" height="45"></rect>
+                                <polygon id="Triangle-1-Copy-2" fill="#455A64" transform="translate(209.500000, 24.500000) rotate(-360.000000) translate(-209.500000, -24.500000) " points="205 23 214 23 209.5 26"></polygon>
+                                <polygon id="Triangle-1-Copy-3" fill="#455A64" transform="translate(119.500000, 24.500000) rotate(-360.000000) translate(-119.500000, -24.500000) " points="115 23 124 23 119.5 26"></polygon>
+                                <text id="Mike" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#455A64">
+                                    <tspan x="169" y="28">Mike</tspan>
+                                </text>
+                                <text id="Organization" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#455A64">
+                                    <tspan x="27.3496094" y="28">Organization</tspan>
+                                </text>
+                            </g>
+                            <g id="apps" transform="translate(143.000000, 18.000000)" fill="#455A64">
+                                <path d="M0,2.75 L2.75,2.75 L2.75,0 L0,0 L0,2.75 L0,2.75 Z M4.125,11 L6.875,11 L6.875,8.25 L4.125,8.25 L4.125,11 L4.125,11 Z M0,11 L2.75,11 L2.75,8.25 L0,8.25 L0,11 L0,11 Z M0,6.875 L2.75,6.875 L2.75,4.125 L0,4.125 L0,6.875 L0,6.875 Z M4.125,6.875 L6.875,6.875 L6.875,4.125 L4.125,4.125 L4.125,6.875 L4.125,6.875 Z M8.25,0 L8.25,2.75 L11,2.75 L11,0 L8.25,0 L8.25,0 Z M4.125,2.75 L6.875,2.75 L6.875,0 L4.125,0 L4.125,2.75 L4.125,2.75 Z M8.25,6.875 L11,6.875 L11,4.125 L8.25,4.125 L8.25,6.875 L8.25,6.875 Z M8.25,11 L11,11 L11,8.25 L8.25,8.25 L8.25,11 L8.25,11 Z" id="Shape"></path>
+                            </g>
+                            <g id="person" transform="translate(284.000000, 17.000000)" fill="#455A64">
+                                <path d="M5.5,5.5 C7.0125,5.5 8.25,4.2625 8.25,2.75 C8.25,1.2375 7.0125,0 5.5,0 C3.9875,0 2.75,1.2375 2.75,2.75 C2.75,4.2625 3.9875,5.5 5.5,5.5 L5.5,5.5 Z M5.5,6.875 C3.64375,6.875 0,7.76875 0,9.625 L0,11 L11,11 L11,9.625 C11,7.76875 7.35625,6.875 5.5,6.875 L5.5,6.875 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(40.000000, 12.000000)" font-size="14" fill="#000000">
+                        <text id="PEOPLE" font-family="OpenSans-Bold, Open Sans" font-weight="bold">
+                            <tspan x="4" y="15">PEOPLE</tspan>
+                        </text>
+                        <text id="TREE" font-family="OpenSans, Open Sans" font-weight="normal">
+                            <tspan x="58.1717557" y="15">TREE</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="nav-report" transform="translate(50.000000, 179.000000)">
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(-4.000000, -2.000000)">
+                        <g id="Oval-14">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                        </g>
+                        <g id="Group-3" transform="translate(16.078413, 9.309524)">
+                            <use id="Rectangle-22" stroke="#CFD8DC" mask="url(#mask-36)" stroke-width="4" fill="#CFD8DC" xlink:href="#path-35"></use>
+                            <path d="M3.4905754,9.22404337 L12.2754582,9.22404337" id="Path-62" stroke="#607D8B"></path>
+                            <path d="M3.4905754,14.16554 L12.2754582,14.16554" id="Path-62-Copy" stroke="#607D8B"></path>
+                            <path d="M3.4905754,10.8712089 L12.2754582,10.8712089" id="Path-62-Copy-2" stroke="#607D8B"></path>
+                            <path d="M3.4905754,12.5183744 L12.2754582,12.5183744" id="Path-62-Copy-3" stroke="#607D8B"></path>
+                            <path d="M3.29433107,2.5 L12.6282691,2.5" id="Path-66" stroke="#607D8B" stroke-width="5"></path>
+                        </g>
+                    </g>
+                    <text id="Share" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#CFD8DC">
+                        <tspan x="48" y="23">Share</tspan>
+                    </text>
+                </g>
+                <g id="nav-explore" transform="translate(50.000000, 124.000000)">
+                    <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(-4.000000, -2.000000)">
+                        <g id="Oval-14">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                        </g>
+                        <g id="Group" transform="translate(11.619048, 9.619048)">
+                            <path d="M17.8571429,24.2063492 C17.8571429,18.28063 7.98766121,7.14285714 7.98766121,1.62721664" id="Path-54" stroke="#B0BEC5" stroke-dasharray="1" opacity="0.5"></path>
+                            <path d="M17.8571429,1.19047619 C17.8571429,7.12053571 8.18886409,16.1018105 8.18886409,23.8169643" id="Path-54-Copy-3" stroke="#B0BEC5" stroke-dasharray="1" opacity="0.5"></path>
+                            <path d="M23.4126984,12.7325149 L1.98412698,12.7325149" id="Path-54-Copy-5" stroke="#B0BEC5" stroke-dasharray="1" opacity="0.5"></path>
+                            <ellipse id="Oval-15" fill="#CFD8DC" cx="12.6984127" cy="12.6984127" rx="2.38095238" ry="2.38095238"></ellipse>
+                            <ellipse id="Oval-15-Copy" fill="#607D8B" cx="7.93650794" cy="1.58730159" rx="1.58730159" ry="1.58730159"></ellipse>
+                            <ellipse id="Oval-15-Copy-2" fill="#607D8B" cx="17.4603175" cy="1.58730159" rx="1.58730159" ry="1.58730159"></ellipse>
+                            <ellipse id="Oval-15-Copy-4" fill="#607D8B" cx="23.8095238" cy="12.6984127" rx="1.58730159" ry="1.58730159"></ellipse>
+                            <ellipse id="Oval-15-Copy-5" fill="#607D8B" cx="7.93650794" cy="23.8095238" rx="1.58730159" ry="1.58730159"></ellipse>
+                            <ellipse id="Oval-15-Copy-6" fill="#607D8B" cx="17.4603175" cy="23.8095238" rx="1.58730159" ry="1.58730159"></ellipse>
+                            <ellipse id="Oval-15-Copy-3" fill="#607D8B" cx="1.58730159" cy="12.6984127" rx="1.58730159" ry="1.58730159"></ellipse>
+                        </g>
+                    </g>
+                    <text id="Explore" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#CFD8DC">
+                        <tspan x="48" y="23">Explore</tspan>
+                    </text>
+                </g>
+                <g id="search-add-panel-v2" transform="translate(355.000000, 707.000000)">
+                    <g id="search-add-panel-copy-6">
+                        <g id="Rectangle-43-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                            <use fill="#607D8B" fill-rule="evenodd" xlink:href="#path-39"></use>
+                        </g>
+                        <g id="Rectangle-59-+-Firstname" transform="translate(18.000000, 14.000000)" opacity="0.300000012">
+                            <rect id="Rectangle-59" fill="#455A64" x="0" y="0" width="531" height="30" rx="7"></rect>
+                            <text id="Search,-Build,-Edit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="11" y="20">Search, Build, Edit</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path d="M207.777322,33.2993111 C195.07807,33.2993111 184.783292,43.6032521 184.783292,56.2908442 L184.783292,943.82652 L1548.67321,943.82652 L1548.67321,56.2908442 C1548.67321,43.5929711 1538.38256,33.2993111 1525.67918,33.2993111 L207.777322,33.2993111 Z M228.482969,90.7820895 L228.482969,890.942364 L1507.27351,890.942364 L1507.27351,90.7820895 L228.482969,90.7820895 Z" id="Combined-Shape" fill="#121212"></path>
+            <g id="nav-radial-copy" filter="url(#filter-41)" transform="translate(0.000000, 115.000000)">
+                <g id="Group-3">
+                    <g id="Oval-14">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-43)" xlink:href="#path-42"></use>
+                        <use fill="#607D8B" fill-rule="evenodd" xlink:href="#path-42"></use>
+                    </g>
+                    <g id="Group" transform="translate(126.036585, 83.724490)">
+                        <path d="M105.575264,17.4723418 C33.527608,17.4723418 69.6028873,116.370996 14.1441184,116.370996" id="Path-54-Copy-3" stroke="#CFD8DC" stroke-dasharray="1" opacity="0.5"></path>
+                        <path d="M105.575264,66.9216691 C33.527608,66.9216691 69.6028873,116.370996 14.1441184,116.370996" id="Path-54-Copy-4" stroke="#CFD8DC" stroke-dasharray="1" opacity="0.5"></path>
+                        <path d="M110.097537,116.370996 L14.1441184,116.370996" id="Path-54-Copy-8" stroke="#CFD8DC" stroke-dasharray="1" opacity="0.5"></path>
+                        <path d="M105.575264,116.370996 C33.527608,116.370996 69.6028873,165.820324 14.1441184,165.820324" id="Path-54-Copy-6" stroke="#CFD8DC" stroke-dasharray="1" opacity="0.5" transform="translate(59.859691, 141.095660) scale(1, -1) translate(-59.859691, -141.095660) "></path>
+                        <path d="M105.575264,116.370996 C33.527608,116.370996 69.6028873,215.269651 14.1441184,215.269651" id="Path-54-Copy-7" stroke="#CFD8DC" stroke-dasharray="1" opacity="0.5" transform="translate(59.859691, 165.820324) scale(1, -1) translate(-59.859691, -165.820324) "></path>
+                        <ellipse id="Oval-15-Copy" fill="#FAFAFA" cx="105.781069" cy="14.3310658" rx="13.8646922" ry="13.8888889"></ellipse>
+                        <ellipse id="Oval-15-Copy-2" fill="#FAFAFA" cx="105.781069" cy="64.3310658" rx="13.8646922" ry="13.8888889"></ellipse>
+                        <ellipse id="Oval-15-Copy-4" fill="#FAFAFA" cx="105.781069" cy="114.331066" rx="13.8646922" ry="13.8888889"></ellipse>
+                        <ellipse id="Oval-15-Copy-5" fill="#FAFAFA" cx="105.781069" cy="214.331066" rx="13.8646922" ry="13.8888889"></ellipse>
+                        <ellipse id="Oval-15-Copy-6" fill="#FAFAFA" cx="105.781069" cy="164.331066" rx="13.8646922" ry="13.8888889"></ellipse>
+                        <g id="Oval-15">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                            <use stroke-opacity="0.4" stroke="#FFFFFF" mask="url(#mask-45)" stroke-width="40" xlink:href="#path-44"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
