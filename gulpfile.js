@@ -1,5 +1,6 @@
 // generated on 2016-12-13 using generator-webapp 2.3.2
 const gulp             = require('gulp');
+const imagemin         = require('gulp-imagemin');
 const deploy           = require('gulp-gh-pages');
 const gulpLoadPlugins  = require('gulp-load-plugins');
 const browserSync      = require('browser-sync');
@@ -62,10 +63,16 @@ gulp.task('html', ['styles', 'scripts'], () => {
     .pipe(gulp.dest('dist'));
 });
 
+// gulp.task('images', () => {
+//   return gulp.src('app/images/**/*')
+//     .pipe($.cache($.imagemin()))
+//     .pipe(gulp.dest('dist/images'));
+// });
+
 gulp.task('images', () => {
-  return gulp.src('app/images/**/*')
-    .pipe($.cache($.imagemin()))
-    .pipe(gulp.dest('dist/images'));
+  return gulp.src('app/images/*')
+    .pipe(imagemin())
+    .pipe(gulp.dest('dist/images'))
 });
 
 gulp.task('fonts', () => {
