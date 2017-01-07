@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="74px" viewBox="0 0 310 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-beta</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-242.000000, -176.000000)">
+            <g id="logo-beta" transform="translate(242.000000, 173.000000)">
+                <text id="BETA" transform="translate(238.500000, 59.911392) rotate(-360.000000) translate(-238.500000, -59.911392) " font-family="OpenSans-Bold, Open Sans" font-size="25" font-weight="bold" letter-spacing="10" fill="#0097FF">
+                    <tspan x="192" y="69.9113924">BET</tspan>
+                    <tspan x="267.275879" y="69.9113924">A</tspan>
+                </text>
+                <text id="PEOPLE" font-family="OpenSans-Bold, Open Sans" font-size="43" font-weight="bold" fill="#000000">
+                    <tspan x="24" y="46">PEOPLE</tspan>
+                </text>
+                <text id="TREE" font-family="OpenSans, Open Sans" font-size="43" font-weight="normal" fill="#000000">
+                    <tspan x="187" y="46">TREE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
