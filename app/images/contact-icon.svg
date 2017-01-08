@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="430px" height="472px" viewBox="0 0 430 472" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>contact-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-2" cx="175" cy="175.5" rx="175" ry="175"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-1235.000000, -120.000000)">
+            <g id="Group-4" transform="translate(1275.000000, 148.000000)">
+                <g id="Group" filter="url(#filter-1)">
+                    <g id="Oval-14">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#607D8B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Group-3" transform="translate(106.666667, 68.671972)">
+                        <path d="M0,14.5765661 L137.422259,14.5765661 L137.422259,108.580037 L137.422259,199.385811 L0,199.385811 L0,14.5765661 Z" id="Rectangle-22" fill-opacity="0.4" fill="#FFFFFF"></path>
+                        <path d="M30.1259061,70.162413 L105.945084,70.162413" id="Path-62" stroke="#FFFFFF" stroke-width="16"></path>
+                        <path d="M30.1259061,141.299304 L105.945084,141.299304" id="Path-62-Copy" stroke="#FFFFFF" stroke-width="16"></path>
+                        <path d="M30.1259061,93.549884 L105.945084,93.549884" id="Path-62-Copy-2" stroke="#FFFFFF" stroke-width="16"></path>
+                        <path d="M30.1259061,117.911833 L105.945084,117.911833" id="Path-62-Copy-3" stroke="#FFFFFF" stroke-width="16"></path>
+                        <path d="M28.4321916,13.1554524 L108.990068,13.1554524" id="Path-66" stroke="#FFFFFF" stroke-width="27"></path>
+                    </g>
+                </g>
+                <text id="CONTACT-US" font-family="OpenSans-Bold, Open Sans" font-size="40" font-weight="bold" letter-spacing="10" fill="#4A4A4A">
+                    <tspan x="6" y="417">CONTACT US</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

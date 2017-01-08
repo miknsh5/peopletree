@@ -46,3 +46,16 @@
 }
 
 
+.contact-img img{
+  max-width: 120px;
+}
+
+@media (min-width: 768px) {
+  .contact-img img {
+    max-width: 200px;
+    margin-top: 160px;
+    border-right: solid #CCC 2px;
+    padding-right: 60px;
+  }
+}
+
