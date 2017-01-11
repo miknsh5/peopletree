@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>pt-logo-square@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00C8FF" offset="0%"></stop>
+            <stop stop-color="#0097FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-473.000000, -334.000000)">
+            <g id="Group-6" transform="translate(490.000000, 359.000000)">
+                <g id="Group-4-Copy" transform="translate(26.000000, 0.000000)">
+                    <ellipse id="Oval" fill="url(#linearGradient-1)" cx="46.5" cy="46.5" rx="46.5" ry="46.5"></ellipse>
+                    <text id="PT" font-family="OpenSans-Bold, Open Sans" font-size="43" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="22" y="62">PT</tspan>
+                    </text>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 97.000000)" font-size="24" fill="#4A4A4A">
+                    <text id="PEOPLE-Copy" font-family="OpenSans-Bold, Open Sans" font-weight="bold">
+                        <tspan x="0" y="26">PEOPLE</tspan>
+                    </text>
+                    <text id="TREE-Copy" font-family="OpenSans, Open Sans" font-weight="normal">
+                        <tspan x="90" y="26">TREE</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
